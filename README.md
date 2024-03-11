@@ -1,3 +1,19 @@
+<p align="center">Chihi Chadi - MERN Stack Developer</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChihiChadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ChihiChadi/count.svg?"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -34,8 +50,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ChihiChadi&theme=dark" alt="Layout with last medium posts"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ChihiChadi/ChihiChadi/output/snake.svg" alt="Snake animation" />
 
 ###
