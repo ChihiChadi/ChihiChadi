@@ -50,6 +50,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ChihiChadi/ChihiChadi/output/snake.svg" alt="Snake animation" />
-
-###
